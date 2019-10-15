@@ -74,3 +74,7 @@ I want to be able to see random memes
 As a user     
 when I select view Chuck Noris Fact option      
 I want to be able to see random Chuck Noris Facts
+
+## Review ##
+
+For the final project of my course at Makers Academy, we wanted to build something fun and lightweight which could benefit a wide range of users. We also wanted to practice a new technology so decided to build it in React. We were successful in working as a team with regular check-ins, stand-ups and retro's and I also ran morning walkthroughs of some of the new code. Personally I learn't a lot about working in a team as well as improving my skills in React and with websockets.
